@@ -1,0 +1,6 @@
+Student First Name,Student Middle Name(Optional),Student Last Name,School Name,City Name,County Name,Grade(Integer),Gender(Male|Female|Other|Prefer Not To Answer),Project Number(Integer),Title,Abstract,Grade Level(Elementary|Junior High|Freshman|Sophomore|Junior|Senior),Category,CN ID,Booth Number(Integer)
+#Example data below. Remove this line and the examples before entering your own data!
+#Example 1:
+#John,James,Doe,Indiana High School,Indianapolis,Marion,11,Male,3,Baking Soda Volcano,"This baking soda volcano explodes!",Junior,Biology,690BKSD#23451,4
+#Example 2, with missing middle name field:
+#Jane,,Doe,Fort Wayne High School,Fort Wayne,Allen,12,Female,4,Nuclear Fusion,"Bringing the power of the sun to your living room!",Senior,Physics,MCDS450$12#1,8
